@@ -13,3 +13,6 @@ my_gen = all_even()
 
 for i in range(5):
     print(next(my_gen))
+
+for i in range(50):
+    print(next(my_gen))
